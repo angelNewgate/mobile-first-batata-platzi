@@ -1,0 +1,42 @@
+
+
+.header--title-container h1 {
+  font-size: 3.5rem;
+  line-height: 4rem;
+}
+
+.product-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-tables-container {
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.plans-container--slider {
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.bitcoin-img-container h2 {
+  font-size: 4rem;
+}
+
+.plans--title h2 {
+  font-size: 4rem;
+}
+
+footer section {
+  justify-content: flex-start;
+}
+footer section ul {
+  margin-left: 50px;
+}
+.footer-logo {
+  justify-content: flex-end;
+}
+.footer-logo img {
+  margin-right: 50px;
+}
